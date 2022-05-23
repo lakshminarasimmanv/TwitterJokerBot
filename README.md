@@ -1,5 +1,11 @@
 # Twitter Joker Bot
 
+### **About:**
+
+This is a Twitter Bot that Tweets Jokes. By default it only set to tweet coding jokes, but you can change it to anything. 
+
+To do that, you need to make changes to the jokes.go file. Refer [JokeAPI Documentation](https://sv443.net/jokeapi/v2/)
+
 ### **Setup:**
 
 1. Sign up for a [Twitter Developer Account](https://developer.twitter.com/en) and Create an App.
