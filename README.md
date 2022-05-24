@@ -4,7 +4,7 @@
 
 This is a Twitter Bot that Tweets Jokes. By default it only set to tweet coding jokes, but you can change it to anything. 
 
-To do that, you need to make changes to the jokes.go file. Refer [JokeAPI Documentation](https://sv443.net/jokeapi/v2/)
+To do that, you need to make changes to the jokes.go file. Refer [JokeAPI Documentation](https://sv443.net/jokeapi/v2/).
 
 ### **Setup:**
 
@@ -44,4 +44,4 @@ export ACTOSEC=<Your Access Secret Key>
 
 ## Contribution:
 
-Love to have your Contribution!
+We love to have your Contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for more.
