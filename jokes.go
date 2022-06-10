@@ -7,6 +7,7 @@ import (
 	"github.com/icelain/jokeapi"
 )
 
+/*
 type JokesResp struct {
 	Error    bool
 	Category string
@@ -16,6 +17,7 @@ type JokesResp struct {
 	Id       float64
 	Lang     string
 }
+*/
 
 func Joke() (string, error) {
 	jt := "single"
